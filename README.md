@@ -2,9 +2,9 @@
 
 
 <p align="center">
-  <a href="https://twitter.com/packiaseelan14"><img width="50" hspace="20" src="https://github.com/Packiaseelan/Packiaseelan/raw/master/images/twitter_ic.png" alt="Twitter" /></a>
-  <a href="https://www.linkedin.com/in/packiaseelan14"><img width="50" src="https://github.com/Packiaseelan/Packiaseelan/raw/master/images/linkedin_ic.png" alt="LinkedIn" /></a>
-  <a href="https://wa.me/919626449468"><img width="50" src="https://github.com/Packiaseelan/Packiaseelan/raw/master/images/whatsapp_ic.png" alt="WhatsApp" /></a>
+  <a href="https://twitter.com/packiaseelan14"><img width="50" hspace="20" src="https://github.com/Packiaseelan/Packiaseelan/raw/master/images/twitter_ic.png" alt="Twitter" />
+  <a href="https://www.linkedin.com/in/packiaseelan14"><img width="50" src="https://raw.githubusercontent.com/Packiaseelan/Packiaseelan/main/images/linkedin_ic.png" alt="LinkedIn" />
+  <a href="https://wa.me/919626449468"><img width="50" src="https://github.com/Packiaseelan/Packiaseelan/raw/master/images/whatsapp_ic.png" alt="WhatsApp" />
 </p>
 
 <!--
