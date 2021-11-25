@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-[![Packiaseelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=packiaseelan)
+# Packiaseelan 
+I'm Packiaseelan from India, and I build things for Android and iOS. I really enjoy learning languages and frameworks like Flutter DART and SwiftUI. 
+
+![Packiaseelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=packiaseelan)
 
 
-
+# Get In Touch 
 <p align="center">
   <a href="https://twitter.com/packiaseelan14">
     <img width="50" hspace="20" src="https://raw.githubusercontent.com/Packiaseelan/Packiaseelan/main/images/twitter_ic.png" alt="Twitter" />
