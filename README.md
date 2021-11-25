@@ -6,8 +6,8 @@ I'm Packiaseelan from India, and I build things for Android and iOS. I really en
 ![Packiaseelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=packiaseelan)
 
 # Skills and Experience
-*Flutter (Android, iOS, Desktop and Web)
-*Xamarin.Forms (Android, iOS and Windows)
+* Flutter (Android, iOS, Desktop and Web)
+* Xamarin.Forms (Android, iOS and Windows)
 
 
 # Get In Touch 
