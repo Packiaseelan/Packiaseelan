@@ -8,7 +8,7 @@ I'm Packiaseelan from India, and I build things for Android and iOS. I really en
 
 # Skills and Experience
 * Flutter (Android, iOS, Desktop and Web)
-* SwiftUI
+* SwiftUI (iOS and macOS)
 * Xamarin.Forms (Android, iOS and Windows)
 
 
