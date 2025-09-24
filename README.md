@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 # Packiaseelan 
-I'm Packiaseelan from India, and I build things for Android and iOS. I really enjoy learning languages and frameworks like Flutter DART and SwiftUI. 
+I'm Packiaseelan from India, and I build things for Android and iOS. I really enjoy learning languages and frameworks like SwiftUI, Flutter and DART. 
 <a href="https://packiaseelan.github.io" >My github page </a>
 
 ![Packiaseelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=packiaseelan)
 
 # Skills and Experience
-* Flutter (Android, iOS, Desktop and Web)
 * SwiftUI (iOS and macOS)
+* Flutter (Android, iOS, Desktop and Web)
 * Xamarin.Forms (Android, iOS and Windows)
 
 
